@@ -1,0 +1,5 @@
+# Generated caches and test artifacts
+**/__pycache__/
+**/out/
+**/*.test-output
+**/test-output/
